@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Joseph Makoti 
+- 👋 Hi, I’m ** _Joseph Makoti_** 
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me josephmwamuye5@gmail.com
+> 📫 How to reach me [Discord](https://discord.com/users/1016661314015342592)
 - 😄 Pronouns: he/him
 
 <!---
